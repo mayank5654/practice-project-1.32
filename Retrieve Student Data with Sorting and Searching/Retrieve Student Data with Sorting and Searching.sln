@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retrieve Student Data with Sorting and Searching", "Retrieve Student Data with Sorting and Searching\Retrieve Student Data with Sorting and Searching.csproj", "{07590309-E37E-4DD9-955A-A1D1CE4416FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07590309-E37E-4DD9-955A-A1D1CE4416FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07590309-E37E-4DD9-955A-A1D1CE4416FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07590309-E37E-4DD9-955A-A1D1CE4416FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07590309-E37E-4DD9-955A-A1D1CE4416FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90239445-7DE6-4C39-B402-D963B0483048}
+	EndGlobalSection
+EndGlobal

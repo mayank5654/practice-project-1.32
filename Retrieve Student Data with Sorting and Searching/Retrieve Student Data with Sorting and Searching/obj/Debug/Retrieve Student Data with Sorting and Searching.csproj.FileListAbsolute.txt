@@ -1,0 +1,7 @@
+D:\practic exercise\practice project\project1.32\Retrieve Student Data with Sorting and Searching\Retrieve Student Data with Sorting and Searching\bin\Debug\Retrieve Student Data with Sorting and Searching.exe.config
+D:\practic exercise\practice project\project1.32\Retrieve Student Data with Sorting and Searching\Retrieve Student Data with Sorting and Searching\bin\Debug\Retrieve Student Data with Sorting and Searching.exe
+D:\practic exercise\practice project\project1.32\Retrieve Student Data with Sorting and Searching\Retrieve Student Data with Sorting and Searching\bin\Debug\Retrieve Student Data with Sorting and Searching.pdb
+D:\practic exercise\practice project\project1.32\Retrieve Student Data with Sorting and Searching\Retrieve Student Data with Sorting and Searching\obj\Debug\Retrieve Student Data with Sorting and Searching.csproj.AssemblyReference.cache
+D:\practic exercise\practice project\project1.32\Retrieve Student Data with Sorting and Searching\Retrieve Student Data with Sorting and Searching\obj\Debug\Retrieve Student Data with Sorting and Searching.csproj.CoreCompileInputs.cache
+D:\practic exercise\practice project\project1.32\Retrieve Student Data with Sorting and Searching\Retrieve Student Data with Sorting and Searching\obj\Debug\Retrieve Student Data with Sorting and Searching.exe
+D:\practic exercise\practice project\project1.32\Retrieve Student Data with Sorting and Searching\Retrieve Student Data with Sorting and Searching\obj\Debug\Retrieve Student Data with Sorting and Searching.pdb
